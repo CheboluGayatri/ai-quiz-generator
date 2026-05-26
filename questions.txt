@@ -1,0 +1,20 @@
+What is Python?|programming language
+What is AI?|artificial intelligence
+What does CPU stand for?|central processing unit
+What does RAM stand for?|random access memory
+Who developed Python?|guido van rossum
+Which symbol is used for comments in Python?|#
+What keyword is used to define a function in Python?|def
+Which data type stores whole numbers?|int
+Which function is used to display output in Python?|print
+Which function is used to take user input in Python?|input
+What is the file extension of Python files?|.py
+Which loop is used when the number of iterations is known?|for
+Which loop runs until a condition becomes false?|while
+What keyword is used for conditional statements in Python?|if
+Which operator is used for addition?|+
+Which operator is used for multiplication?|*
+What is the result of 5 + 5?|10
+Which keyword is used to import modules in Python?|import
+What does HTML stand for?|hypertext markup language
+What does WWW stand for?|world wide web
