@@ -66,12 +66,18 @@ Question|Answer
 
 # Features of the Project
 Interactive Quiz Interface
+
 Multiple Questions
 Answer Validation
+
 Score Calculation
+
 Progress Tracking
+
 Restart Quiz Option
-Automatic Score Saving
+
+Automatic Score 
+
 User-Friendly Design
 
 ---
