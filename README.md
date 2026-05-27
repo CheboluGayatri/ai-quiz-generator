@@ -64,16 +64,15 @@ Question|Answer
 
 ---
 
-# ✨ Features
-
-- Random Questions
-- Progress Bar
-- Sidebar Dashboard
-- Answer Validation
-- Next Question Button
-- Final Score
-- Score Saving
-- Restart Quiz
+# Features of the Project
+Interactive Quiz Interface
+Multiple Questions
+Answer Validation
+Score Calculation
+Progress Tracking
+Restart Quiz Option
+Automatic Score Saving
+User-Friendly Design
 
 ---
 
@@ -92,7 +91,29 @@ scores.txt
 - Python
 - Streamlit
 
----
+----
+# Project Workflow
+Load quiz questions
+Display question to user
+Accept user answer
+Validate answer
+Update score
+Move to next question
+Display final result
+Save score automatically 
+
+-----
+ 
+# Live Demo
+
+🌐 https://smart-quiz-generator.streamlit.app/
+
+--- 
+
+# Conclusion
+
+The AI Quiz Generator is a simple and beginner-friendly project developed using Python and Streamlit. The application successfully demonstrates quiz management, answer validation, score tracking, and interactive web application development. This project helped in gaining practical knowledge of Python programming and Streamlit deployment. 
+
 
 # 👨‍💻 Author
 
